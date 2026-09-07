@@ -1,17 +1,17 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rishit%20Bisoyi&fontSize=46&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=Python%20%C2%B7%20Data%20Science%20%C2%B7%20Full-Stack%20Web&descAlignY=58&descAlign=50" width="100%"/>
+</div>
 
+<div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=640&lines=Exploring+Python+%26+Data+Science;Building+with+Next.js+%2B+Supabase;Learning+in+public%2C+one+commit+at+a+time;Currently+focused+on+full-stack+web+dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=640&lines=Exploring+Python+%26+Data+Science;Building+with+Next.js+%2B+Supabase;Learning+in+public%2C+one+commit+at+a+time;Currently+focused+on+full-stack+web+dev" alt="Typing SVG" />
 </a>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/📍-Chennai%2C%20Tamil%20Nadu%2C%20India-64FFDA?style=flat-square&labelColor=0d1117" />
-  <a href="https://www.linkedin.com/in/rishit-bisoyi-b02519370/"><img src="https://img.shields.io/badge/LinkedIn-rishit--bisoyi-64FFDA?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rishitbisoyi&color=64FFDA&style=flat-square&label=Profile+Views" />
-</p>
-
+<div align="center">
+<img src="https://img.shields.io/badge/📍-Chennai%2C%20Tamil%20Nadu%2C%20India-64FFDA?style=flat-square&labelColor=0d1117" />
+<a href="https://www.linkedin.com/in/rishit-bisoyi-b02519370/"><img src="https://img.shields.io/badge/LinkedIn-rishit--bisoyi-64FFDA?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=rishitbisoyi&color=64FFDA&style=flat-square&label=Profile+Views" />
 </div>
 
 <br/>
@@ -56,26 +56,21 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 <div align="center">
 
 **Languages**
-
 <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" />
 
 **Frameworks & Styling**
-
 <img src="https://skillicons.dev/icons?i=nextjs,flask,tailwind,bootstrap&theme=dark" />
 
 **Data Science / AI-ML Tooling**
-
-<img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Plotly&logoColor=blue" />
 
 **Databases & Backend Services**
-
 <img src="https://skillicons.dev/icons?i=mongodb,supabase&theme=dark" />
 
 **Tools & Deployment**
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
 
 </div>
@@ -102,35 +97,20 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 </div>
 
 <div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/rishitbisoyi/rishitbisoyi/output/snake.svg" alt="contribution snake animation" width="100%" />
-<!--END_SECTION:snake-->
-
+<img src="https://raw.githubusercontent.com/rishitbisoyi/rishitbisoyi/output/snake.svg" alt="contribution snake animation" width="100%" /><br/>
+<sub>Generated inside this repo by a scheduled GitHub Action — see <code>.github/workflows/snake.yml</code></sub>
 </div>
-
-> The snake animation above is generated **inside your own repository** by a scheduled GitHub Action (see `.github/workflows/snake.yml`), so it doesn't depend on any third-party server staying online.
 
 <br/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/rishitbisoyi/next-gen-learning-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=next-gen-learning-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rishitbisoyi/pillsmart-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=pillsmart-app&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" />
-</a>
+<a href="https://github.com/rishitbisoyi/next-gen-learning-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=next-gen-learning-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" /></a>
+<a href="https://github.com/rishitbisoyi/pillsmart-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=pillsmart-app&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" /></a>
 <br/>
-<a href="https://github.com/rishitbisoyi/100-days-of-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=100-days-of-python&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rishitbisoyi/she-can-foundation-webpage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=she-can-foundation-webpage&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" />
-</a>
-
+<a href="https://github.com/rishitbisoyi/100-days-of-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=100-days-of-python&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" /></a>
+<a href="https://github.com/rishitbisoyi/she-can-foundation-webpage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=she-can-foundation-webpage&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" /></a>
 </div>
 
 #### 🎓 [LearnX — Next-Gen Learning Dashboard](https://github.com/rishitbisoyi/next-gen-learning-dashboard) · [Live Demo](https://next-gen-learning-dashboard-sage.vercel.app/)
@@ -165,18 +145,12 @@ A responsive contact form and admin dashboard built for a nonprofit organization
 ## 📫 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/rishit-bisoyi-b02519370/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/rishitbisoyi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<a href="https://www.linkedin.com/in/rishit-bisoyi-b02519370/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/rishitbisoyi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
 </div>
