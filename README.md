@@ -11,7 +11,6 @@
 <div align="center">
 <img src="https://img.shields.io/badge/📍-Chennai%2C%20Tamil%20Nadu%2C%20India-64FFDA?style=flat-square&labelColor=0d1117" />
 <a href="https://www.linkedin.com/in/rishit-bisoyi-b02519370/"><img src="https://img.shields.io/badge/LinkedIn-rishit--bisoyi-64FFDA?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=rishitbisoyi&color=64FFDA&style=flat-square&label=Profile+Views" />
 </div>
 
 <br/>
@@ -21,33 +20,9 @@
 I'm **Rishit**, a developer based in Chennai, India, currently exploring **Python, data science, and full-stack web development**. My work spans from foundational Python scripting and automation through to modern, animation-driven frontends built with **Next.js**, **Tailwind CSS**, and **Framer Motion** — plus a hardware-integrated IoT project that combined software with real electronics.
 
 - 🔭 Learning through project-based practice — currently working through a 100-day Python bootcamp covering scripting, GUIs, web scraping, APIs, and data science
-- 🌐 Recently shipped a full-stack, database-backed dashboard (Next.js 15 + Supabase) for a frontend challenge, deployed live on Vercel
-- ⚙️ Built a multidisciplinary **Smart Pill Dispenser** system, combining a Python/MongoDB backend with real dispensing hardware
-- 🤝 Contributed a responsive web app (contact form + admin dashboard) for **She Can Foundation**, a nonprofit
-- 🧠 Comfortable moving between data-science tooling (Pandas, NumPy, Scikit-learn) and modern web stacks
-
-<br/>
-
-## 🧩 Currently Building / Learning
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Building**
-- A full-stack learning dashboard (`LearnX`) with Supabase + Framer Motion
-- Deepening Flask/REST API and backend fundamentals
-
-</td>
-<td width="50%" valign="top">
-
-**Learning**
-- Data science & analysis with Pandas, NumPy, Scikit-learn
-- Modern frontend patterns: Server/Client component splits, spring animations
-
-</td>
-</tr>
-</table>
+- 🚀 Built **StarTrek**, a real-time space-exploration dashboard with ISS tracking, night-sky conditions, and a constellation explorer
+- 🧩 Built **Nexus**, a Kanban-style club collaboration platform with sprint planning, analytics, and role-based auth, for Android Club's technical recruitment
+- 🧠 Comfortable moving between data-science tooling (Pandas, NumPy, Scikit-learn) and modern web stacks (Next.js, Supabase, MongoDB)
 
 <br/>
 
@@ -56,22 +31,40 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 <div align="center">
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Frameworks & Styling**
-<img src="https://skillicons.dev/icons?i=nextjs,flask,tailwind,bootstrap&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
-**Data Science / AI-ML Tooling**
-<img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" />
+**Data Science / ML**
+<br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Plotly&logoColor=blue" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 
 **Databases & Backend Services**
-<img src="https://skillicons.dev/icons?i=mongodb,supabase&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
 **Tools & Deployment**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -80,13 +73,15 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishitbisoyi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitbisoyi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishitbisoyi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitbisoyi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=rishitbisoyi&theme=dark&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" />
 </div>
+
+> If any stat card above shows a broken image on first load, it's the free Vercel-hosted stats API getting rate-limited — refresh, or see the note at the bottom of this file for a self-hosted fix.
 
 <br/>
 
@@ -97,7 +92,12 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rishitbisoyi/rishitbisoyi/output/snake.svg" alt="contribution snake animation" width="100%" /><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishitbisoyi/rishitbisoyi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishitbisoyi/rishitbisoyi/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/rishitbisoyi/rishitbisoyi/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+<br/>
 <sub>Generated inside this repo by a scheduled GitHub Action — see <code>.github/workflows/snake.yml</code></sub>
 </div>
 
@@ -105,40 +105,17 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<a href="https://github.com/rishitbisoyi/next-gen-learning-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=next-gen-learning-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" /></a>
-<a href="https://github.com/rishitbisoyi/pillsmart-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=pillsmart-app&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" /></a>
-<br/>
-<a href="https://github.com/rishitbisoyi/100-days-of-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=100-days-of-python&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" /></a>
-<a href="https://github.com/rishitbisoyi/she-can-foundation-webpage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishitbisoyi&repo=she-can-foundation-webpage&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" /></a>
-</div>
-
-#### 🎓 [LearnX — Next-Gen Learning Dashboard](https://github.com/rishitbisoyi/next-gen-learning-dashboard) · [Live Demo](https://next-gen-learning-dashboard-sage.vercel.app/)
-`Next.js 15` `Supabase` `Tailwind CSS v4` `Framer Motion` `TypeScript`
-A high-fidelity student dashboard built for a frontend intern challenge. Server Components fetch data from Supabase with zero client-side waterfalls, while a "Obsidian OS"-themed UI uses spring-physics Framer Motion animations, a bento grid layout, and full responsive breakpoints. Interesting because it shows a real server/client component split and a deliberate, documented animation architecture rather than default library settings.
-
-#### 💊 [Smart Pill Dispenser System](https://github.com/rishitbisoyi/pillsmart-app)
-`Python` `MongoDB` `HTML/CSS/JS` `Hardware Integration`
-A multidisciplinary healthcare project pairing a Flask/Python + MongoDB backend with an actual dispensing hardware prototype, built with Electrical and Mechanical Engineering teammates. Covers medication scheduling, reminders, inventory tracking, and dispensing logs — interesting because it bridges software with a working physical device rather than staying purely digital.
-
 #### 🐍 [100 Days of Python](https://github.com/rishitbisoyi/100-days-of-python)
 `Python` `Flask` `Pandas/NumPy` `Selenium` `Tkinter/Turtle`
-An ongoing, day-by-day build log from a Python bootcamp — 50+ small projects spanning automation scripts, games, GUI apps, web scraping, REST API integrations, and early data-science work. Interesting as a breadth-first record of core Python fundamentals being built up project by project.
+An ongoing, day-by-day build log from a Python bootcamp — 50+ small projects spanning automation scripts, games, GUI apps, web scraping, REST API integrations, and early data-science work.
 
-#### 🌸 [She Can Foundation Web Application](https://github.com/rishitbisoyi/she-can-foundation-webpage) · [Live Demo](https://she-can-foundation-webpage.vercel.app/)
-`HTML` `CSS` `JavaScript`
-A responsive contact form and admin dashboard built for a nonprofit organization, with client-side validation and a searchable submissions panel. Interesting as a real-world, deployed project built for an outside organization rather than a personal exercise.
+#### 🛰️ [StarTrek — Space Exploration Dashboard](https://github.com/rishitbisoyi/star-trek) · [Live Demo](https://star-trek-ashy.vercel.app/)
+`Next.js` `React` `TypeScript`
+A retro mission-control-themed dashboard combining real-time ISS tracking, night-sky observing conditions, a constellation explorer, a celestial-events database, and a planetary explorer into one experience.
 
-<br/>
-
-## 🎯 Current Focus / Interests
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-64FFDA?style=for-the-badge&logo=jupyter&logoColor=black" />
-<img src="https://img.shields.io/badge/Full--Stack%20Web-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%20Animation-FF61F6?style=for-the-badge&logo=framer&logoColor=white" />
-</div>
+#### 🧩 [Nexus — Android Club Collaboration Platform](https://github.com/rishitbisoyi/club-tasks) · [Live Demo](https://club-tasks-five.vercel.app/)
+`Next.js` `React` `TypeScript` `MongoDB` `NextAuth.js`
+A Kanban-style task and team management platform built for Android Club's 2026 technical recruitment — drag-and-drop task boards, member management, sprint planning, an analytics dashboard, and role-based admin controls.
 
 <br/>
 
@@ -154,3 +131,11 @@ A responsive contact form and admin dashboard built for a nonprofit organization
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 </div>
+
+<!--
+Note on stat-card reliability: github-readme-stats / streak-stats / activity-graph
+above use community-hosted free instances on Vercel, which get rate-limited under
+heavy traffic and can show a broken image intermittently. If that keeps happening,
+deploy your own instance of https://github.com/anuraghazra/github-readme-stats
+to Vercel (one-click deploy) and swap the domain in the URLs above for your own.
+-->
