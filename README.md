@@ -42,32 +42,21 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 
 ## Tech Stack
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**Languages**
+<sub><b>LANGUAGES</b></sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
 
 <br/><br/>
 
-**Frameworks & Styling**
+<sub><b>FRAMEWORKS &nbsp;&amp;&nbsp; STYLING</b></sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,flask,tailwind&theme=dark" />
 
-</td>
-<td valign="top" width="50%">
+<br/><br/>
 
-**Data Science / ML**
+<sub><b>DATA SCIENCE &nbsp;/&nbsp; ML</b></sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -76,19 +65,11 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 
 <br/><br/>
 
-**Databases, Tools & Deployment**
+<sub><b>DATABASES, TOOLS &nbsp;&amp;&nbsp; DEPLOYMENT</b></sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel,postman&theme=dark" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -100,28 +81,25 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 
 ## What I'm Focused On
 
-<table align="center">
-<tr>
-<td align="center" width="220">
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON%20%26%20DATA%20SCIENCE-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 <br/>
-<img src="https://img.shields.io/badge/-Python%20%26%20Data%20Science-0f2027?style=for-the-badge&logo=python&logoColor=64FFDA&labelColor=0d1117" /><br/><br/>
-<sub>Pandas · NumPy · Scikit-learn<br/>working through a 100-day bootcamp</sub>
+<sub>Pandas · NumPy · Scikit-learn — working through a 100-day bootcamp</sub>
+
 <br/><br/>
-</td>
-<td align="center" width="220">
+
+<img src="https://img.shields.io/badge/FULL--STACK%20WEB-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 <br/>
-<img src="https://img.shields.io/badge/-Full--Stack%20Web-0f2027?style=for-the-badge&logo=next.js&logoColor=64FFDA&labelColor=0d1117" /><br/><br/>
-<sub>Next.js · Supabase · MongoDB<br/>animation-driven UIs with Framer Motion</sub>
+<sub>Next.js · Supabase · MongoDB — animation-driven UIs with Framer Motion</sub>
+
 <br/><br/>
-</td>
-<td align="center" width="220">
+
+<img src="https://img.shields.io/badge/BUILDING%20IN%20PUBLIC-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 <br/>
-<img src="https://img.shields.io/badge/-Building%20in%20Public-0f2027?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=0d1117" /><br/><br/>
-<sub>Shipping small projects<br/>one commit at a time</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
+<sub>Shipping small projects, one commit at a time</sub>
+
+</div>
 
 <br/>
 
