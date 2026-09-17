@@ -75,15 +75,14 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 
 ## What I'm Focused On
 
-<div align="center">
+> ### Python & Data Science
+> Pandas · NumPy · Scikit-learn — working through a 100-day bootcamp
 
-| | |
-|:--:|:--|
-| **Python & Data Science** | Pandas · NumPy · Scikit-learn — working through a 100-day bootcamp |
-| **Full-Stack Web** | Next.js · Supabase · MongoDB — animation-driven UIs with Framer Motion |
-| **Building in Public** | Shipping small projects, one commit at a time |
+> ### Full-Stack Web
+> Next.js · Supabase · MongoDB — animation-driven UIs with Framer Motion
 
-</div>
+> ### Building in Public
+> Shipping small projects, one commit at a time
 
 <br/>
 
@@ -97,14 +96,21 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 
 #### [100 Days of Python](https://github.com/rishitbisoyi/100-days-of-python)
 `Python` `Flask` `Pandas/NumPy` `Selenium` `Tkinter/Turtle`
+
 An ongoing, day-by-day build log from a Python bootcamp — 50+ small projects spanning automation scripts, games, GUI apps, web scraping, REST API integrations, and early data-science work.
+
+<br/>
 
 #### [StarTrek — Space Exploration Dashboard](https://github.com/rishitbisoyi/star-trek) · [Live Demo](https://star-trek-ashy.vercel.app/)
 `Next.js` `React` `TypeScript`
+
 A retro mission-control-themed dashboard combining real-time ISS tracking, night-sky observing conditions, a constellation explorer, a celestial-events database, and a planetary explorer into one experience.
+
+<br/>
 
 #### [Nexus — Android Club Collaboration Platform](https://github.com/rishitbisoyi/club-tasks) · [Live Demo](https://club-tasks-five.vercel.app/)
 `Next.js` `React` `TypeScript` `MongoDB` `NextAuth.js`
+
 A Kanban-style task and team management platform built for Android Club's 2026 technical recruitment — drag-and-drop task boards, member management, sprint planning, an analytics dashboard, and role-based admin controls.
 
 <br/>
