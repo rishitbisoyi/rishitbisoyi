@@ -92,19 +92,41 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 
 <br/>
 
-## GitHub Stats
-
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishitbisoyi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitbisoyi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9&langs_count=8" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&width=100%25"/>
 </div>
 
 <br/>
 
-## Contribution Activity
+## What I'm Focused On
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+<br/>
+<img src="https://img.shields.io/badge/-Python%20%26%20Data%20Science-0f2027?style=for-the-badge&logo=python&logoColor=64FFDA&labelColor=0d1117" /><br/><br/>
+<sub>Pandas · NumPy · Scikit-learn<br/>working through a 100-day bootcamp</sub>
+<br/><br/>
+</td>
+<td align="center" width="220">
+<br/>
+<img src="https://img.shields.io/badge/-Full--Stack%20Web-0f2027?style=for-the-badge&logo=next.js&logoColor=64FFDA&labelColor=0d1117" /><br/><br/>
+<sub>Next.js · Supabase · MongoDB<br/>animation-driven UIs with Framer Motion</sub>
+<br/><br/>
+</td>
+<td align="center" width="220">
+<br/>
+<img src="https://img.shields.io/badge/-Building%20in%20Public-0f2027?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=0d1117" /><br/><br/>
+<sub>Shipping small projects<br/>one commit at a time</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishitbisoyi&theme=react-dark&hide_border=true&bg_color=0d1117&color=64FFDA&line=64FFDA&point=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=3&width=100%25"/>
 </div>
 
 <br/>
