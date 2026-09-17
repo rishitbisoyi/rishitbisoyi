@@ -44,29 +44,23 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 
 <div align="center">
 
-<sub><b>LANGUAGES</b></sub>
-<br/><br/>
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
 
-<br/><br/>
-
-<sub><b>FRAMEWORKS &nbsp;&amp;&nbsp; STYLING</b></sub>
-<br/><br/>
+**Frameworks & Styling**
+<br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,flask,tailwind&theme=dark" />
 
-<br/><br/>
-
-<sub><b>DATA SCIENCE &nbsp;/&nbsp; ML</b></sub>
-<br/><br/>
+**Data Science / ML**
+<br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
 
-<br/><br/>
-
-<sub><b>DATABASES, TOOLS &nbsp;&amp;&nbsp; DEPLOYMENT</b></sub>
-<br/><br/>
+**Databases, Tools & Deployment**
+<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel,postman&theme=dark" />
 
 </div>
@@ -83,21 +77,11 @@ I'm **Rishit**, a developer based in Chennai, India, currently exploring **Pytho
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PYTHON%20%26%20DATA%20SCIENCE-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br/>
-<sub>Pandas · NumPy · Scikit-learn — working through a 100-day bootcamp</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FULL--STACK%20WEB-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br/>
-<sub>Next.js · Supabase · MongoDB — animation-driven UIs with Framer Motion</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BUILDING%20IN%20PUBLIC-64FFDA?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br/>
-<sub>Shipping small projects, one commit at a time</sub>
+| | |
+|:--:|:--|
+| **Python & Data Science** | Pandas · NumPy · Scikit-learn — working through a 100-day bootcamp |
+| **Full-Stack Web** | Next.js · Supabase · MongoDB — animation-driven UIs with Framer Motion |
+| **Building in Public** | Shipping small projects, one commit at a time |
 
 </div>
 
